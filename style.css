@@ -752,7 +752,7 @@ footer {
 
     .spot-list-li {
         height: 500px;
-        max-width: 400px;
+        width: 100%;
     }
 
     .food-list-li {
