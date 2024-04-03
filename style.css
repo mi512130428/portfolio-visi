@@ -806,6 +806,12 @@ footer {
         height: 65px;
     }
 
+    .top-image {
+        width: 100%;
+        height: calc(100vh - 70px);
+    }
+
+
     .spot-img::before {
         content: "spot";
         position: absolute;
