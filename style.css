@@ -401,8 +401,7 @@ h3::after {
 }
 
 .spot-list-li {
-    width: calc(100% / 3);
-    max-width: 400px;
+    width: 400px;
     min-height: 450px;
     padding: 2%;
     background: #fefefe;
@@ -753,6 +752,7 @@ footer {
 
     .spot-list-li {
         height: 500px;
+        max-width: 400px;
     }
 
     .food-list-li {
